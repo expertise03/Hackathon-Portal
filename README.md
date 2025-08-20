@@ -53,6 +53,23 @@ Showcasing innovation in **AI-powered personalized hackathon management**.
 - **Deployment:** Netlify / Vercel  
 
 ---
+<img width="1880" height="896" alt="Screenshot 2025-08-20 222156" src="https://github.com/user-attachments/assets/ce423be1-e533-48e2-a38b-1fe92d05304d" />
+
+<img width="1919" height="905" alt="Screenshot 2025-08-20 222228" src="https://github.com/user-attachments/assets/f18c9562-d727-4037-9659-4c6ddb54fcea" />
+
+<img width="1916" height="904" alt="Screenshot 2025-08-20 222308" src="https://github.com/user-attachments/assets/0e89be31-bc3c-4d9d-992a-7da78cfb00a7" />
+
+<img width="1916" height="903" alt="Screenshot 2025-08-20 222326" src="https://github.com/user-attachments/assets/1e6e954a-ed9b-4e48-9478-06a045e134f5" />
+
+<img width="1919" height="895" alt="Screenshot 2025-08-20 222344" src="https://github.com/user-attachments/assets/a096fee8-3d1c-4bd9-81e6-542810b7b944" />
+
+<img width="1914" height="896" alt="Screenshot 2025-08-20 222402" src="https://github.com/user-attachments/assets/ff9bcbb9-0167-4176-918a-814029428f20" />
+
+<img width="1919" height="900" alt="Screenshot 2025-08-20 222613" src="https://github.com/user-attachments/assets/73139236-03b8-471d-bb80-b1641ccad3d1" />
+
+<img width="1919" height="900" alt="Screenshot 2025-08-20 222613" src="https://github.com/user-attachments/assets/9b71191e-349a-46b1-a0d4-c567c4cfa9f0" />
+
+---
 
 ## 🚀 Getting Started (Local Setup)
 
@@ -74,27 +91,6 @@ cp .env.template .env.local
 npm run dev
 
 5.App runs at: http://localhost:3000
-
-<img width="1880" height="896" alt="Screenshot 2025-08-20 222156" src="https://github.com/user-attachments/assets/ce423be1-e533-48e2-a38b-1fe92d05304d" />
-
-<img width="1919" height="905" alt="Screenshot 2025-08-20 222228" src="https://github.com/user-attachments/assets/f18c9562-d727-4037-9659-4c6ddb54fcea" />
-
-<img width="1916" height="904" alt="Screenshot 2025-08-20 222308" src="https://github.com/user-attachments/assets/0e89be31-bc3c-4d9d-992a-7da78cfb00a7" />
-
-<img width="1916" height="903" alt="Screenshot 2025-08-20 222326" src="https://github.com/user-attachments/assets/1e6e954a-ed9b-4e48-9478-06a045e134f5" />
-
-<img width="1919" height="895" alt="Screenshot 2025-08-20 222344" src="https://github.com/user-attachments/assets/a096fee8-3d1c-4bd9-81e6-542810b7b944" />
-
-<img width="1914" height="896" alt="Screenshot 2025-08-20 222402" src="https://github.com/user-attachments/assets/ff9bcbb9-0167-4176-918a-814029428f20" />
-
-<img width="1919" height="900" alt="Screenshot 2025-08-20 222613" src="https://github.com/user-attachments/assets/73139236-03b8-471d-bb80-b1641ccad3d1" />
-
-<img width="1919" height="900" alt="Screenshot 2025-08-20 222613" src="https://github.com/user-attachments/assets/9b71191e-349a-46b1-a0d4-c567c4cfa9f0" />
-
-
-
-
-
 
 
 
